@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amitabhcs01
-- 👀 I’m interested in Java , C , C++ , SpringBoot, Web Development, App Development and System Design
+- 👀 I’m interested in Java , JavaScript , C , C++ , SpringBoot, Web Development, App Development and System Design
 - 🌱 I’m currently learning Blockchain
 - 💞️ I’m looking to collaborate on Projects of Blockchain
 - 📫 my contact email me : amitabh01cs@gmail.com
