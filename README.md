@@ -16,8 +16,6 @@
 3.  Data Fetcher: Fetching Meta Data from a BTRFS file
 ⚡ Fun fact: I usually not use ChatGpt 
 ---
-![Screenshot 2025-02-11 223939](https://github.com/user-attachments/assets/89f904f9-29e2-4bc9-82af-560ff0d5d919)
-
 ## 🖥️ System Setup
 ```bash
 OS        : Windows x64
