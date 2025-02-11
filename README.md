@@ -1,6 +1,7 @@
 # 👋 Hey, I'm Amitabh Ranjan (@amitabhcs01)
 
-![banner](https://ibb.co/HfZkB1WW)
+
+![Screenshot 2025-02-10 000506](https://github.com/user-attachments/assets/b4b9126d-4f25-4ec8-b559-5a6806d82454)
 
 ## 🛠️ What Intrest Areas
 - 📖 **Computer Science , Discrete Maths , DSA(Data Structure and Algorithm) , System Design**  
