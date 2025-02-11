@@ -5,7 +5,8 @@
 
 ## 🛠️ What Intrest Areas
 - 📖 **Computer Science , Discrete Maths , DSA(Data Structure and Algorithm) , System Design**  
-- 🛠️ **Blockchain, AI**  
+- 🛠️ **Blockchain, AI**
+- ![Screenshot 2025-02-11 223939](https://github.com/user-attachments/assets/89f904f9-29e2-4bc9-82af-560ff0d5d919)
 
 ## 🌱 My Expriences
 1.  Chromium:  is an open-source browser project that aims to build a safer, faster, and more stable way for all users to experience the web.
