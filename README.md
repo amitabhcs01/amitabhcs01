@@ -9,6 +9,8 @@
 ## Tech Stack: 
 ![Screenshot 2025-02-11 225422](https://github.com/user-attachments/assets/ea6f2a0e-9a01-4a4b-a301-464ab51b94a6)
 
+## My Resume
+[AmitabhRanjanResume (1).pdf](https://github.com/user-attachments/files/18797181/AmitabhRanjanResume.1.pdf)
 
 ## 🌱 My Expriences
 1.  Chromium:  is an open-source browser project that aims to build a safer, faster, and more stable way for all users to experience the web.
