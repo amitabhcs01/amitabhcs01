@@ -19,12 +19,12 @@
 2.  Adro-Encryption: Improving Android security by enhancing encryption, authentication, and privacy protections.
 3.  Data Fetcher: Fetching Meta Data from a BTRFS file
 ⚡ Fun fact: I usually not use ChatGpt 
----
 ## GITHUB STATS: 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amitabhcs01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amitabhcs01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  
 </div>
+---
 ## 🖥️ System Setup
 ```bash
 OS        : Windows x64
