@@ -1,26 +1,50 @@
-# 👋 Hey, I'm Amitabh Ranjan (@amitabhcs01)
+<br clear="both">
 
+<h1 align="left">Hi 👋! My name is Amitabh Ranjan and I'm a Software Developer, from India 🇮🇳</h1>
 
-![Screenshot 2025-02-10 000506](https://github.com/user-attachments/assets/b4b9126d-4f25-4ec8-b559-5a6806d82454)
+###
 
-## 🛠️ What Intrest Areas
-- 📖 **Computer Science , Discrete Maths , DSA(Data Structure and Algorithm) , System Design**  
-- 🛠️ **Blockchain, AI**
-## Tech Stack: 
-![Screenshot 2025-02-11 225422](https://github.com/user-attachments/assets/ea6f2a0e-9a01-4a4b-a301-464ab51b94a6)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amitabhcs01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amitabhcs01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-## My Resume
-[AmitabhRanjanResume (1).pdf](https://github.com/user-attachments/files/18797181/AmitabhRanjanResume.1.pdf)
+###
 
-## 🌱 My Expriences
-1.  Chromium:  is an open-source browser project that aims to build a safer, faster, and more stable way for all users to experience the web.
-2.  Adro-Encryption: Improving Android security by enhancing encryption, authentication, and privacy protections.
-3.  Data Fetcher: Fetching Meta Data from a BTRFS file
-⚡ Fun fact: I usually not use ChatGpt 
----
-## 🖥️ System Setup
-```bash
-OS        : Windows x64
-WM        : dwm.exe
-Shell     : PowerShell
-Terminal  : Windows Terminal
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/amitabhcs01/amitabhcs01/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+</div>
+
+###
