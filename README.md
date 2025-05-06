@@ -1,6 +1,6 @@
 
 
-# 👋 Hey, I'm Amitabh Ranjan (@amitabhcs01)
+# 👋 Hey, I'm Kshitiz Bhardwaj (@kshitizb)
 
 
 ![Screenshot 2025-02-10 000506](https://github.com/user-attachments/assets/b4b9126d-4f25-4ec8-b559-5a6806d82454)
@@ -12,7 +12,7 @@
 ![Screenshot 2025-02-11 225422](https://github.com/user-attachments/assets/ea6f2a0e-9a01-4a4b-a301-464ab51b94a6)
 
 ## My Resume
-[AmitabhRanjanResume (1).pdf](https://github.com/user-attachments/files/18797181/AmitabhRanjanResume.1.pdf)
+[Kshitizb (1).pdf](https://github.com/user-attachments/files/18797181/AmitabhRanjanResume.1.pdf)
 
 ## 🌱 My Expriences
 1.  Chromium:  is an open-source browser project that aims to build a safer, faster, and more stable way for all users to experience the web.
